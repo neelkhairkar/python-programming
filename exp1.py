@@ -7,13 +7,13 @@ Original file is located at
     https://colab.research.google.com/drive/1u5UhY0DAFSqN-_IuRjCSG4h0Y73vBdqg
 """
 
-#queation no 1
+#question no 1
 a=int(input("enter the first number="))
 b=int(input("enter the second number="))
 sum=a+b
 print(sum)
 
-#queation no 2
+#question no 2
 a=10
 b="neel"
 c=10.97
